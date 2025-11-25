@@ -41,17 +41,6 @@ Equity IRR (Leveraged): ~14.08%
 Base Case DSCR: 1.55 (above 1.30 covenant)
 DSRA: €1.58M (6-month coverage)
 
-🧮 What’s Included in This Repository?
-Solar-PV-50MW-Financial-Model/
-│── README.md
-│── Model/
-│     └── Financial_Model_50MW_Solar.xlsx
-│── Report/
-│     └── Solar_PV_50MW_Financial_Assessment.docx
-│── Charts/
-│     └── (Optional – exported model charts)
-└── License (optional)
-
 💡 Features of the Financial Model
 
 ✔ Complete 15-year financial model
